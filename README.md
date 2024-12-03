@@ -30,7 +30,7 @@ as it got removed as of ATLYSS version 1.5.0a
 NoPlayerCap: Removes the lobby player cap
 ---------------------
 
-INSTALLATION from unmodded
+# INSTALLATION from unmodded
 (This is if you don't already have BepInEx installed into the files)
 
 To add it to the game, simply put the 
@@ -51,7 +51,7 @@ NOTE: YOU CAN SEE THE EXAMPLE IMAGE TO SEE HOW IT LOOKS
 
 ---------------------
 
-INSTALLATION with BepInEx already installed
+# INSTALLATION with BepInEx already installed
 
 To add it to the game, simply take
 the PartyUp.dll file found in:
