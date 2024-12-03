@@ -1,3 +1,4 @@
+# PartyUp
 Introducing the PartyUp mod for ATLYSS!
 Team up with your pals on ATLYSS but instead with as many as you want with PartyUp!
 (There's a limit but it's like 5 times larger than the server limit)
