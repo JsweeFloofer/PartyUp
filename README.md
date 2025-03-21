@@ -21,13 +21,7 @@ SPECIAL THANKS TO OUR TESTERS!
 This version of the mod includes
 the following mods by Marioalexsan:
 
-ModAwareMultiplayer
 NoPlayerCap
-
-
-ModAwareMultiplayer: Allows Modded Hosting
-until Kiseff implements a way for modded Hosting
-as it got removed as of ATLYSS version 1.5.0a
 
 NoPlayerCap: Removes the lobby player cap
 
