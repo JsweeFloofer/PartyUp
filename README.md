@@ -1,13 +1,15 @@
 # PartyUp
 ![PartyUp Icon](https://github.com/JsweeFloofer/PartyUp/blob/main/icon.png)
 
-Introducing the PartyUp mod for ATLYSS!
-Team up with your pals on ATLYSS but instead with as many as you want with PartyUp!
-(There's a limit but it's like 5 times larger than the server limit)
+# Introducing the PartyUp mod for ATLYSS!
+### Made by **Jswee**
 
-Made by Jswee
+**Team up with your pals on ATLYSS but instead with as many as you want with PartyUp!**
+(There's a limit but it's like around 99)
 
-SPECIAL THANKS TO OUR TESTERS!
+
+
+## SPECIAL THANKS TO OUR TESTERS!
 - CutiMatt
 - PichuBoi
 - Mocha Shepherd
@@ -18,17 +20,14 @@ SPECIAL THANKS TO OUR TESTERS!
 
 ---------------------
 
-This version of the mod includes
-the following mods by Marioalexsan:
-
-NoPlayerCap
+## Included Mod by Marioalexsan
 
 NoPlayerCap: Removes the lobby player cap
 
 ---------------------
 
-# INSTALLATION from unmodded
-(This is if you don't already have BepInEx installed into the files)
+## INSTALLATION from unmodded
+**This is if you don't already have BepInEx installed into the files**
 
 To add it to the game, simply put the 
 CONTENTS of the PartyUp folder into:
@@ -44,11 +43,9 @@ BepInEx (folder)
 doorstop_config.ini
 winhttp.dll
 
-NOTE: YOU CAN SEE THE EXAMPLE IMAGE TO SEE HOW IT LOOKS
-
 ---------------------
 
-# INSTALLATION with BepInEx already installed
+## INSTALLATION with BepInEx already installed
 
 To add it to the game, simply take
 the PartyUp.dll file found in:
@@ -62,6 +59,10 @@ BepInEx plugins folder in the ATLYSS files found at:
 Program Files (x86)\Steam\steamapps\common\ATLYSS\BepInEx\plugins
 (or rightclick ATLYSS on Steam > Properties... > Installed Files > Browse... > BepInEx > plugins)
 
-NOTE: If no plugins folder is present, create one instead
-as BepInEx doesn't come with it's own plugins folder
+**NOTE: If no plugins folder is present, create one instead
+as BepInEx doesn't come with it's own plugins folder**
 (As of BepInEx 5.4.23.2)
+
+---------------------
+
+![Come say hi! :3](https://i.imgur.com/7F3LHN1.png)
