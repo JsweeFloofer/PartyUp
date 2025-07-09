@@ -64,5 +64,9 @@ as BepInEx doesn't come with it's own plugins folder**
 (As of BepInEx 5.4.23.2)
 
 ---------------------
+### Showcase Video
+[![Showcase Video](https://i.imgur.com/clhMycM.png)](https://youtu.be/na-hYf9oosY)
 
-![Come say hi! :3](https://i.imgur.com/7F3LHN1.png)
+---------------------
+<img src="https://i.imgur.com/l0xUT92.png" alt="Example Image" height="495" margin="50"/>
+<img src="https://i.imgur.com/Mxf6PHJ.png" alt="Come say hi! :3" height="495" margin="50"/>
